@@ -1,27 +1,20 @@
 {
   "name": "nodekulala",
-  "version": "1.0.3",
-  "author": "vincent0700 <wang.yuanqiu007@gmail.com> (https://vincentstudio.info)",
-  "description": "A nodejs module to hide linux process.",
-  "keywords": [
-    "processhider",
-    "process-hider",
-    "process"
-  ],
+  "version": "1.0.0",
+  "description": "node hider utility",
   "main": "index.js",
-  "bin": {
-    "ph": "./bin/cli.js"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "url": "https://github.com/Vincent0700/nodekulala.git",
-    "type": "git"
+    "type": "git",
+    "url": "git+https://github.com/williehprnuhrxyq/nodekulala.git"
   },
-  "dependencies": {
-    "cli-table": "^0.3.1",
-    "colors": "^1.4.0",
-    "commander": "^4.1.0",
-    "jsonfile": "^5.0.0",
-    "shelljs": "^0.8.3"
+  "keywords": [],
+  "author": "williehprnuhrxyq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/williehprnuhrxyq/nodekulala/issues"
   },
-  "license": "MIT"
+  "homepage": "https://github.com/williehprnuhrxyq/nodekulalao#readme"
 }
